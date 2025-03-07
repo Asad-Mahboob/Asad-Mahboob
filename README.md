@@ -26,7 +26,7 @@ My focus is on **efficiency, scalability, and problem-solving**, continuously im
 ---
 
 ## 📊 **GitHub Stats**  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Asad-Mahboob&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Mahboob&theme=radical" alt="GitHub Streak" width="49%"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad-Mahboob&theme=radical" alt="GitHub Activity Graph"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Asad-Mahboob&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad-Mahboob&theme=radical" alt="GitHub Activity Graph"/> </p>
 
 ---
 
