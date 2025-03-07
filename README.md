@@ -1,6 +1,8 @@
 # 👋 Hey, I'm **Asad Mahboob**  
 
-I'm a **Full-Stack Developer** with a passion for **scalable web applications and AI/ML**. I love solving real-world problems through **efficient, high-performance code** and continuously expanding my knowledge.  
+I am a Full-Stack Developer with expertise in MERN (MongoDB, Express, React, Node.js), SQL, and Next.js, along with backend development using Django. Currently, I am expanding my skills in Data Structures & Algorithms (DSA), Flutter, and Rust, with plans to explore AI/ML and system architecture to build scalable, high-performance applications.
+
+My focus is on efficiency, scalability, and problem-solving, continuously improving my expertise in modern technologies to develop impactful solutions.
 
 ## 🚀 **Tech Stack**  
 
@@ -39,10 +41,9 @@ I'm a **Full-Stack Developer** with a passion for **scalable web applications an
 
 ---
 
-## 🔥 **Featured Projects**  
-📌 [**AI-Powered Web App**](https://github.com/Asad-Mahboob/project-name)  
-📌 [**Flutter Mobile App**](https://github.com/Asad-Mahboob/project-name)  
-📌 [**Full-Stack MERN Application**](https://github.com/Asad-Mahboob/project-name)  
+## 🔥 **Featured Projects**    
+📌 [**Frontend**](https://github.com/Asad-Mahboob/aalimdar-frontend)    
+📌 [**Backend**](https://github.com/Asad-Mahboob/aalimdar-backend)  
 
 ---
 
