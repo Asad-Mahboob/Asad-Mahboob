@@ -2,59 +2,65 @@
 
 I'm a **Full-Stack Developer** with a passion for **scalable web applications and AI/ML**. I love solving real-world problems through **efficient, high-performance code** and continuously expanding my knowledge.  
 
-## 🚀 **What I Work With**  
+## 🚀 **Tech Stack**  
 
-### 💻 **Tech Stack**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+### 💻 **Languages**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+</p>
 
 ### 🖥️ **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</p>
 
 ### 🗄️ **Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📚 **Currently Learning**  
-🚀 **AI & Machine Learning** (NumPy, Pandas, Scikit-Learn)  
-⚙️ **System Architecture** (Microservices, Caching, Load Balancing)  
-🦀 **Rust** for Systems Programming  
-🎯 **DSA & Competitive Programming**  
+🚀 AI & Machine Learning (NumPy, Pandas, Scikit-Learn)  
+⚙️ System Architecture (Microservices, Caching, Load Balancing)  
+🦀 Rust for Systems Programming  
+🎯 DSA & Competitive Programming  
 
 ---
 
 ## 🔥 **Featured Projects**  
-📌 [**AI-Powered Web App**](https://github.com/asadmahboob/project-name)  
-📌 [**Flutter Mobile App**](https://github.com/asadmahboob/project-name)  
-📌 [**Full-Stack MERN Application**](https://github.com/asadmahboob/project-name)  
+📌 [**AI-Powered Web App**](https://github.com/Asad-Mahboob/project-name)  
+📌 [**Flutter Mobile App**](https://github.com/Asad-Mahboob/project-name)  
+📌 [**Full-Stack MERN Application**](https://github.com/Asad-Mahboob/project-name)  
 
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadmahboob&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadmahboob&layout=compact&theme=radical)  
-
----
-
-## 🚀 **GitHub Activity & Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asadmahboob&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asadmahboob&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asad-Mahboob&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Mahboob&theme=radical" alt="GitHub Streak" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad-Mahboob&theme=radical" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
 ## 🌟 **Let's Connect!**  
 📧 **Email:** [asadmahboob169@gmail.com](mailto:asadmahboob169@gmail.com)  
 💼 **LinkedIn:** [Asad Mahboob](https://www.linkedin.com/in/asad-mahboob-undefined-246b3b300)  
+🔗 **GitHub:** [github.com/Asad-Mahboob](https://github.com/Asad-Mahboob)  
 
 🚀 **Always learning, always building! Open to collaborations & exciting projects.**  
