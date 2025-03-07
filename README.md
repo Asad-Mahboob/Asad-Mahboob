@@ -1,8 +1,10 @@
 # 👋 Hey, I'm **Asad Mahboob**  
 
-I am a **Full-Stack Developer** with expertise in **MERN (MongoDB, Express, React, Node.js), SQL, and Next.js**, along with backend development using **Django**. Currently, I am expanding my skills in **Data Structures & Algorithms (DSA), Flutter, and Rust**, with plans to explore **AI/ML and system architecture** to build scalable, high-performance applications.  
+I am a Full-Stack Web Developer with a strong foundation in building scalable and efficient web applications. My expertise lies in frontend and backend development, working with modern frameworks, databases, and performance-driven architectures.
 
-My focus is on **efficiency, scalability, and problem-solving**, continuously improving my expertise in modern technologies to develop impactful solutions.  
+Currently, I am expanding my skills in Data Structures & Algorithms (DSA), exploring AI/ML, and deepening my understanding of software architecture to enhance my ability to build robust and high-performance systems.
+
+I am passionate about problem-solving, writing clean and maintainable code, and continuously learning new technologies to stay ahead in the evolving world of web development.
 
 ---
 
