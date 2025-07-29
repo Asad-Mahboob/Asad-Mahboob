@@ -22,11 +22,6 @@ I am passionate about problem-solving, writing clean and maintainable code, and 
 
 ---
 
-## 📊 **GitHub Stats**  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Asad-Mahboob&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad-Mahboob&theme=radical" alt="GitHub Activity Graph"/> </p>
-
----
-
 ## 🌟 **Let's Connect!**  
 📧 **Email:** [asadmahboob169@gmail.com](mailto:asadmahboob169@gmail.com)  
 💼 **LinkedIn:** [Asad Mahboob](https://www.linkedin.com/in/asad-mahboob-undefined-246b3b300)  
