@@ -28,7 +28,6 @@ I am passionate about problem-solving, writing clean and maintainable code, and 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
 </p>
 
