@@ -19,11 +19,6 @@ I am passionate about problem-solving, writing clean and maintainable code, and 
 - 🦀 **Rust for Systems Programming**  
 - 🎯 **DSA & Competitive Programming**  
 
----
-
-## 🔥 **Featured Projects**  
-📌 [**Aalimdar Frontend**](https://github.com/Asad-Mahboob/aalimdar-frontend)  
-📌 [**Aalimdar Backend**](https://github.com/Asad-Mahboob/aalimdar-backend)  
 
 ---
 
